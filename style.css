@@ -125,3 +125,17 @@ body {
     padding: 10px 80px;
 
 }
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding: 30px 60px;
+}
+
+footer h3 {
+    color: red;
+}
+
+footer p {
+    color: white;
+}
