@@ -99,3 +99,16 @@ body {
 .icon-img {
     text-align: left;
 }
+
+.spon-color {
+    color: goldenrod;
+}
+
+.partner {
+    width: 70px;
+    height: 20px;
+    box-shadow: 3x 3px 6px;
+    padding: 30px;
+    margin: 10px;
+    border: solid 3px gray;
+}
