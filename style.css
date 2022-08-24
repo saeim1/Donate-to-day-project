@@ -112,3 +112,16 @@ body {
     margin: 10px;
     border: solid 3px gray;
 }
+
+.subscribe-area {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 100px;
+    margin: 10%;
+}
+
+.input-text2 {
+    text-align: center;
+    padding: 10px 80px;
+
+}
