@@ -77,3 +77,25 @@ body {
     border-left-style: hidden;
     margin-bottom: 3%;
 }
+
+.card {
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    box-shadow: 8x 8px 16px;
+    background-color: bisque;
+    padding: 30px;
+    margin: 10px;
+}
+
+.bg-color1 {
+    background-color: darkgray;
+}
+
+.bg-color2 {
+    background-color: cadetblue;
+}
+
+.icon-img {
+    text-align: left;
+}
